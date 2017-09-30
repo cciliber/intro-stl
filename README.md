@@ -1,4 +1,4 @@
-**Class Times**:	Fridays 14:00 - 15:30 (Sometimes Wednesdays 11:30 - 13:00 see [syllabus](#syllabus). <br>
+**Class Times**:	Fridays 14:00 - 15:30 (Sometimes Wednesdays 11:30 - 13:00 see [syllabus](#syllabus)). <br>
 **Location**:	Ground floor lecture theater, Gatsby Computational Neuroscience Unit, Sainsbury Wellcome Centre, [25 Howland Street](https://goo.gl/maps/ew5v5F6F7bF2). <br>
 **Instructor**:	Carlo Ciliberto <br>
 **TAs**: Stephen Pasteris <br>
@@ -31,7 +31,7 @@ Your grade will depend on *one* project assignment (50%) and a final exam (50%).
  :---: | :--- | :---
 1 | Fri Oct 06 | Course Overview
 2 | Fri Oct 13 | Overfitting and Regularization
-3 | *Wed Oct 18* | Tikhonov Regularization 
+3 | \*Wed Oct 18\* | Tikhonov Regularization 
 4 | Fri Oct 20 | Computational Regularization I: Iterative Regularization
 5 | Fri Nov 03 | Computational Regularization II: Sampling
 6 | Fri Nov 10 | Generalization Error and Stability
