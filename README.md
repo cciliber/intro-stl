@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+# Introduction to Statistical Learning Theroy
 
-You can use the [editor on GitHub](https://github.com/cciliber/intro-stl/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Class Times**:	Fridays 14:00 - 15:30 (Sometimes Wednesdays 11:30 - 13:00 see [syllabus](#syllabus). <br>
+**Location**:	Ground floor lecture theater, Gatsby Computational Neuroscience Unit, Sainsbury Wellcome Centre, [25 Howland Street](https://goo.gl/maps/ew5v5F6F7bF2). <br>
+**Instructor**:	Carlo Ciliberto <br>
+**TAs**: Stephen Pasteris <br>
+**Office Hours**:	TBA <br>
+**Email Contact** :	cciliber (a) gmail.com, stephen.pasteris (a) gmail.com <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This course represents half of [__Advanced Topics in Machine Learning__](http://www.cs.ucl.ac.uk/current_students/syllabus/compgi/compgi13_advanced_topics_in_machine_learning/) (aka COMP GI13 / COMP M050) from the [UCL CS MSc on Machine Learning](http://www.cs.ucl.ac.uk/prospective_students/msc_machine_learning/). 
 
-### Markdown
+The other half is [Reproducing kernel Hilbert spaces in Machine Learning](http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html) (Taught by Prof. [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/)).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Course Description
 
-# Header 1
-## Header 2
-### Header 3
+Statistical Learning Theory studies the problem of learning from empirical observations (data) to predict and/or understand the behavior of an unknown phenomenon (e.g. the dynamics of the stock market or the activations patterns in the human brain). It addresses the problem by placing it on solid mathematical foundations to answers questions such as "How to design a learning algorithm", "what does it mean for an algorithm to 'solve' a learning problem" or "How to compare two learning algorithms".  
 
-- Bulleted
-- List
+The goal of this course is to introduce students to the ideas behind most well-established learning algorithms and provide fundamental insights on how to use them in practice or to design new ones. 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Prerequisites
 
-[Link](url) and ![Image](src)
-```
+Linear Algebra, Probability Theory, Calculus.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Grading
 
-### Jekyll Themes
+Your grade will depend on *one* project assignment (50%) and a final exam (50%). 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cciliber/intro-stl/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Syllabus
 
-### Support or Contact
+**Class** | **Date** | **Topic**
+ :---: | :---: | :---:
+1 | Fri Oct 06 | Course Overview
+2 | Fri Oct 13 | Overfitting and Regularization
+3 | __Wed Oct 18__ | Tikhonov Regularization 
+4 | Fri Oct 20 | Computational Regularization I: Iterative Regularization
+5 | Fri Nov 03 | Computational Regularization II: Sampling
+6 | Fri Nov 10 | Generalization Error and Stability
+7 | Fri Nov 17 | Model Selection
+8 | Fri Nov 24 | Notes on the Approximation Error
+9 | TBA | Going further with Regularization
+10 | TBA | Structured Prediction 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Reading List
+
+There is no required text for the course, below is a number of useful references:
+
+## Books
+- N. Cristianini and J. Shawe-Taylor. Kernel Methods for Pattern Analysis . Cambridge University Press, 2004.
+- I. Steinwart and A. Christmann. [Support Vector Machines](http://www.staff.uni-bayreuth.de/~bt230781/svm.html) Springer, 2008.
+- S. Shalev-Shwartz and S. Ben-David [Understanding Machine Learning: From Theory to Algorithms. Cambridge University Press (Online Book)](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html), 2014.
+
+
+## Tutorial & Course Notes
+- O. Bousquet, S. Boucheron and G. Lugosi [Introduction to Statistical Learning Theory (Tutorial)](http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/pdfs/pdf2819.pdf).
+- T. Poggio and L. Rosasco course [slides and videos](http://www.mit.edu/~9.520).
+- P. Liang course [notes](https://web.stanford.edu/class/cs229t/Lectures/percy-notes.pdf).
+
+
