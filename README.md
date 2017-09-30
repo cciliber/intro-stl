@@ -47,10 +47,10 @@ There is no required text for the course, below is a number of useful references
 ## Books
 - N. Cristianini and J. Shawe-Taylor. Kernel Methods for Pattern Analysis . Cambridge University Press, 2004.
 - I. Steinwart and A. Christmann. [Support Vector Machines](http://www.staff.uni-bayreuth.de/~bt230781/svm.html) Springer, 2008.
-- S. Shalev-Shwartz and S. Ben-David [Understanding Machine Learning: From Theory to Algorithms. Cambridge University Press (Online Book)](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html), 2014.
+- S. Shalev-Shwartz and S. Ben-David [Understanding Machine Learning: From Theory to Algorithms (Online Book)](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html). Cambridge University Press , 2014.
 
 
-## Tutorial & Course Notes
+## Other useful references
 - O. Bousquet, S. Boucheron and G. Lugosi [Introduction to Statistical Learning Theory (Tutorial)](http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/pdfs/pdf2819.pdf).
 - T. Poggio and L. Rosasco course [slides and videos](http://www.mit.edu/~9.520).
 - P. Liang course [notes](https://web.stanford.edu/class/cs229t/Lectures/percy-notes.pdf).
