@@ -1,5 +1,3 @@
-# Introduction to Statistical Learning Theroy
-
 **Class Times**:	Fridays 14:00 - 15:30 (Sometimes Wednesdays 11:30 - 13:00 see [syllabus](#syllabus). <br>
 **Location**:	Ground floor lecture theater, Gatsby Computational Neuroscience Unit, Sainsbury Wellcome Centre, [25 Howland Street](https://goo.gl/maps/ew5v5F6F7bF2). <br>
 **Instructor**:	Carlo Ciliberto <br>
