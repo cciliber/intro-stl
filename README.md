@@ -5,7 +5,7 @@
 **Office Hours**:	TBA <br>
 **Email Contact** :	cciliber (a) gmail.com, stephen.pasteris (a) gmail.com <br>
 
-This course represents half of [__Advanced Topics in Machine Learning__](http://www.cs.ucl.ac.uk/current_students/syllabus/compgi/compgi13_advanced_topics_in_machine_learning/) (aka COMP GI13 / COMP M050) from the [UCL CS MSc on Machine Learning](http://www.cs.ucl.ac.uk/prospective_students/msc_machine_learning/). 
+This course represents half of [Advanced Topics in Machine Learning](http://www.cs.ucl.ac.uk/current_students/syllabus/compgi/compgi13_advanced_topics_in_machine_learning/) (aka COMP GI13 / COMP M050) from the [UCL CS MSc on Machine Learning](http://www.cs.ucl.ac.uk/prospective_students/msc_machine_learning/). 
 
 The other half is [Reproducing kernel Hilbert spaces in Machine Learning](http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html) (Taught by Prof. [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/)).
 
