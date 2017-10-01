@@ -12,7 +12,8 @@ The other half is [Reproducing kernel Hilbert spaces in Machine Learning](http:/
 
 ## Course Description
 
-Statistical Learning Theory studies the problem of learning from empirical observations (data) to predict and/or understand the behavior of an unknown phenomenon (e.g. the dynamics of the stock market or the activations patterns in the human brain). It addresses the problem by placing it on solid mathematical foundations to answers questions such as "How to design a learning algorithm", "what does it mean for an algorithm to 'solve' a learning problem" or "How to compare two learning algorithms".  
+Statistical Learning Theory (SLT) studies the problem of learning from empirical observations (data) to predict and/or understand the behavior of an unknown phenomenon (e.g. the dynamics of the stock market or the activations patterns in the human brain). SLT provides a mathematical framework within which it is
+possible rigorously address questions such as "How to design a learning algorithm", "what does it mean for an algorithm to 'solve' a learning problem" or "How to compare two learning algorithms".  
 
 The goal of this course is to introduce students to the ideas behind most well-established learning algorithms and provide fundamental insights on how to use them in practice or to design new ones. 
 
@@ -23,7 +24,7 @@ Linear Algebra, Probability Theory, Calculus.
 
 ## Grading
 
-Your grade will depend on *one* project assignment (50%) and a final exam (50%). 
+Final grades will depend on *one* project assignment (50%) and a final exam (50%). 
 
 ## Syllabus
 
