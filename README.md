@@ -42,17 +42,14 @@ Your grade will depend on *one* project assignment (50%) and a final exam (50%).
 
 ## Reading List
 
-There is no required text for the course, below is a number of useful references:
+There is no required text for the course. Below is a number of useful references:
 
-## Books
+- O. Bousquet, S. Boucheron and G. Lugosi [Introduction to Statistical Learning Theory (Tutorial)](http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/pdfs/pdf2819.pdf).
+- T. Poggio and L. Rosasco course [slides and videos](http://www.mit.edu/~9.520).
+- P. Liang course [notes](https://web.stanford.edu/class/cs229t/Lectures/percy-notes.pdf).
 - N. Cristianini and J. Shawe-Taylor. Kernel Methods for Pattern Analysis . Cambridge University Press, 2004.
 - I. Steinwart and A. Christmann. [Support Vector Machines](http://www.staff.uni-bayreuth.de/~bt230781/svm.html) Springer, 2008.
 - S. Shalev-Shwartz and S. Ben-David [Understanding Machine Learning: From Theory to Algorithms (Online Book)](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html). Cambridge University Press , 2014.
 
-
-## Other useful references
-- O. Bousquet, S. Boucheron and G. Lugosi [Introduction to Statistical Learning Theory (Tutorial)](http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/pdfs/pdf2819.pdf).
-- T. Poggio and L. Rosasco course [slides and videos](http://www.mit.edu/~9.520).
-- P. Liang course [notes](https://web.stanford.edu/class/cs229t/Lectures/percy-notes.pdf).
 
 
