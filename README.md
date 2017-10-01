@@ -31,7 +31,7 @@ Your grade will depend on *one* project assignment (50%) and a final exam (50%).
  :---: | :--- | :---
 1 | Fri Oct 06 | Course Overview
 2 | Fri Oct 13 | Overfitting and Regularization
-3 | \*Wed Oct 18\* | Tikhonov Regularization 
+3 | **Wed Oct 18** | Tikhonov Regularization 
 4 | Fri Oct 20 | Computational Regularization I: Iterative Regularization
 5 | Fri Nov 03 | Computational Regularization II: Sampling
 6 | Fri Nov 10 | Generalization Error and Stability
