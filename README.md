@@ -2,7 +2,7 @@
 **Location**:	Ground floor lecture theater, Gatsby Computational Neuroscience Unit, Sainsbury Wellcome Centre, [25 Howland Street](https://goo.gl/maps/ew5v5F6F7bF2). <br>
 **Instructor**:	Carlo Ciliberto <br>
 **TAs**: Stephen Pasteris <br>
-**Office Hours**:	TBA <br>
+**Office Hours**:	Thursdays 14:00 - 15:00. 3rd floor Hub, [66 Gower street](https://goo.gl/maps/n1hb1BV2erR2)<br>
 **Email Contact** :	cciliber (a) gmail.com, stephen.pasteris (a) gmail.com <br>
 
 This course represents half of [Advanced Topics in Machine Learning](http://www.cs.ucl.ac.uk/current_students/syllabus/compgi/compgi13_advanced_topics_in_machine_learning/) (aka COMP GI13 / COMP M050) from the [UCL CS MSc on Machine Learning](http://www.cs.ucl.ac.uk/prospective_students/msc_machine_learning/). 
