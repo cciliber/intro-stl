@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 
 title: Introduction to Statistical Learning Theory
+
+plugins:
+  - jekyll-redirect-from
+  
+  
